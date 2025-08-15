@@ -1,0 +1,14 @@
+{
+  "learning_rate": 0.0005,
+  "num_hidden": 512,
+  "num_proj_hidden": 256,
+  "activation": "rrelu",
+  "ced_drop_rate_1": 0.3,
+  "ced_drop_rate_2": 0.8,
+  "cav_drop_rate_1": 0.2,
+  "cav_drop_rate_2": 0.2,
+  "tau": 0.4,
+  "n_rules": 5,
+  "num_epochs": 4000,
+  "weight_decay": 0.00001
+}
