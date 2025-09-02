@@ -32,7 +32,7 @@ def repeat(n_times):
         return wrapper
     return decorator
 
-@repeat(10)
+@repeat(50)
 def log_regression(z,
                    dataset,
                    evaluator,
